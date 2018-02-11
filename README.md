@@ -10,7 +10,7 @@ Part-2
 http://tech.rajeshpanda.in/2016/12/you-pi-cast-2.html
 
 Part-3
-http://tech.rajeshpanda.in/2016/12/you-pi-cast-3.html
+http://tech.rajeshpanda.in/2017/08/you-pi-cast-3.html
 
 # Demo Link
 
